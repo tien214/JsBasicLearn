@@ -1,1 +1,0 @@
-alert('Hello Meo!')//Con mua ngan ua
